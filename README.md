@@ -10,23 +10,6 @@ An interactive, responsive quiz application that fetches questions from the [Ope
 - Restart functionality
 - Audio alert during last 3 seconds of countdown
 
-## 📁 Project Structure
-```
-├── index.html        # Main HTML file
-├── style.css         # Styling for the app
-├── script.js         # Core logic and interactivity
-├── countdown.mp3     # Audio played during countdown
-```
-
-## 🔧 How to Use
-
-1. **Open `index.html` in any browser.**
-2. **Choose quiz settings.**
-3. **Click "Start Quiz".**
-4. **Select answers and click "Submit".**
-5. **Click "Next" to proceed.**
-6. **View your score at the end and optionally restart.**
-
 ## 📦 Dependencies
 - Font Awesome (CDN)
 - Google Fonts (Poppins)
